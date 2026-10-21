@@ -1,0 +1,18 @@
+# Local captures may contain transient form tokens and embedded session data.
+research_20261021/manifest.json
+research_20261021/sources/*.html
+*.mhtml
+*.zip
+__pycache__/
+*.pyc
+
+# Derived review images can be regenerated from the originals.
+research_20261021/screenshot_review/*.png
+research_20261021/screenshot_review/*.jpg
+
+# Local credentials and editor settings.
+.env
+.env.*
+.aws/
+.codex/
+.agents/

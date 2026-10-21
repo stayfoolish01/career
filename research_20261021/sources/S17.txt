@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /apply/
+Disallow: /*?page
+
+Sitemap: https://career.studying.jp/sitemap_index.xml
