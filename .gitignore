@@ -9,6 +9,10 @@ __pycache__/
 # Derived review images can be regenerated from the originals.
 research_20261021/screenshot_review/*.png
 research_20261021/screenshot_review/*.jpg
+research_20261021/top_restored/available_assets.jpg
+research_20261021/top_restored/assets/*
+!research_20261021/top_restored/assets/c47df15bd2b4.png
+!research_20261021/top_restored/assets/c38a9662f628.jpg
 
 # Local credentials and editor settings.
 .env
