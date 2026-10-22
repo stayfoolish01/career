@@ -5,6 +5,7 @@ research_20261021/sources/*.html
 *.zip
 __pycache__/
 *.pyc
+sites/
 
 # Derived review images can be regenerated from the originals.
 research_20261021/screenshot_review/*.png
